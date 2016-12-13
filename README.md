@@ -3,7 +3,7 @@
 创建
 git init 初始化git仓库
 git status 查看git仓库状态
-git diff <filename> 查看文件修改过的地方
+git diff <filename> 查看文件具体修改过的地方
 git add <filename>  添加文件到暂存区
 git commit -m "blablabla..." 提交文件到版本库
 git commit --amend 对上一次的提交做修改
